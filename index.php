@@ -4,7 +4,7 @@
     <title>Hello, Azure!</title>
 </head>
 <body>
-    <h1>Hello, Azure!</h1>
-    <p>This is a sample PHP web app deployed to Azure App Service using PHP 8.0.</p>
+    <h1>Wazzup, Madafuckaz!</h1>
+    <p>Hmmm, diba. Nakakapu.........</p>
 </body>
 </html>
