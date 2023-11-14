@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>Hello, Azure!</h1>
-    <p>This is a sample PHP web app deployed to Azure App Service.</p>
+    <p>This is a sample PHP web app deployed to Azure App Service using PHP 8.0.</p>
 </body>
 </html>
